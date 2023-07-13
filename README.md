@@ -1,2 +1,2 @@
 # CppProjectTemplate
-Basic CPP project template with CMake.
+Basic CPP project template with CMake, CTest and GoogleTest.
